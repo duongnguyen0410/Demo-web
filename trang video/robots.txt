@@ -1,9 +1,0 @@
-# Group 1
-User-agent: *
-Allow: /
-
-# Group 2
-User-agent: *
-Disallow: /profile/
-
-Sitemap: https://codelearn.io/sitemap.xml
